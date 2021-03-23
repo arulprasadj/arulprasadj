@@ -1,4 +1,4 @@
-![alt text](./images/top.svg)
+![alt text](./images/top.png)
 
 I love coding in PHP, WordPress. I am passionate about technologies and love to learn new things.
 
